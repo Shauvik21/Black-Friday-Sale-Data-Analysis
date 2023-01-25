@@ -1,5 +1,5 @@
 # EDA-Using-Python
-This is a data analyst porfolio product where i explore a Black Firday Sales dataset using python.
+This is a data analyst porfolio project where i explore a Black Firday Sales dataset using python.
 Glimpses of important activities i did using python:
 
 Generated descriptive statistical values for numerical columns.Also explored categorical columns.
